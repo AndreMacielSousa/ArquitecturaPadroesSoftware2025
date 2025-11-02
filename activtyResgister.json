@@ -1,10 +1,10 @@
 {
   "name": "ProPlan Simulador de Gestao de Projetos",
-  "config_url": "https://proplan.app/config.html",       
-  "json_params_url": "https://proplan.app/json-params",   
-  "user_url": "https://proplan.app/deploy",               
-  "analytics_url": "https://proplan.app/analytics",        
-  "analytics_list_url": "https://proplan.app/analytics-list" 
+  "config_url": "http://<domínio>/config.html",       
+  "json_params_url": "http://<domínio>/json-params",   
+  "user_url": "http://<domínio>/deploy",               
+  "analytics_url": "http://<domínio>/analytics",        
+  "analytics_list_url": "http://<domínio>/analytics-list" 
 }
 
 
